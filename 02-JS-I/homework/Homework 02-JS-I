@@ -1,0 +1,16 @@
+# Homework: Introducción a Javascript
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables: Son valores que se declaran/asignan a los elementos con los que vaos a trabajar. Existen 3 tipos, númericas, lógicas (Boolean) y de texto (Strings).
+
+	* Strings: Es la variable de texto cuyo valor es asignado entre ''.
+
+	* Funciones (argumentos, `return`): Las Funciones son un conjunto de variables que requieren se ejecutadas de cierta manera según la necesidad. El orden o la forma de ejecución va a estar marcada por los Argumentos que expresemos en la misma. La manera en la que podemos acceder o visualizar lo que hace una función determinada es a través de la declaración "return", que nos va a mostrar el resultado de una cuenta, por ejemplo, mediante la consola.
+
+	* Declaraciones `if`: Se utilizan para generar diagramas de flujo ya que operan comparando de manera lógica las variables propuestas, avanzando o no de acuerdo al camino que le hayamos trazado.
+
+	* Valores booleanos (`true`, `false`): Son variales lógicas que trabajan de la mano con los operadores >, =, <, y sirven para generar controles de flujo de información o interacción. 
+
+
+
